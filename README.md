@@ -17,3 +17,6 @@
     - if you run `git checkout <HASH>` without  <FILE> 
     - You can fix this running `git checkout main`
  
+- git ignores empty folders
+- use `.gitkeep` to "keep" an empty folder
+- use `.gitignore` to ignore files/patterns
