@@ -1,4 +1,4 @@
-# 2021-07-30 git basics
+# 2021-07-30: Git Basics
 
 - `git init`: initialize git repository in current working directory
 - `git status`: gives status
@@ -20,8 +20,8 @@
 - git ignores empty folders
 - use `.gitkeep` to "keep" an empty folder
 - use `.gitignore` to ignore files/patterns
-    
-# REMOTES
+
+# Remotes
 
 - `ssh-keygen`: to create ssh keys
 - `git remote add <URL>`: adds the URL
